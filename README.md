@@ -5,6 +5,12 @@ Repo of the "Practical Laravel: Develop clean MVC web applications" book.
 
 This is the code repository for [Practical Laravel: Develop clean MVC web applications](https://www.amazon.com/dp/B09SFC79Q1/) book.
 
+---
+
+# This only is training with laravel useed by HWH
+
+---
+
 ## What is this book about?
 Laravel is a PHP web application framework with expressive and elegant syntax. We will use Laravel to develop an Online Store application that uses several Laravel features. The Online Store application will be the means to understand straightforward and complex Laravel concepts and how Laravel features can be used to implement real-world applications.
 
