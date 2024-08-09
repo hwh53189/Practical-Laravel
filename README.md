@@ -7,7 +7,7 @@ This is the code repository for [Practical Laravel: Develop clean MVC web applic
 
 ---
 
-# This only is training with laravel useed by HWH
+# This only is == training == with laravel useed ==by HWH ==
 
 ---
 
